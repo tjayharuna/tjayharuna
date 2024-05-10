@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 You can call me Tkay
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on web projects (Javascript)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can code in 6 languages
+
 <!--
 **tjayharuna/tjayharuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
